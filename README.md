@@ -5,4 +5,4 @@ and you can run the file using qemu with this command <br/>
 ```cmd
 qemu-system-x86_64 -hda boot.bin
 ```
-### Thank you
+### Thank you 🥰
